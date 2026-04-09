@@ -8,6 +8,9 @@ A lightweight macOS menu bar app for controlling external display brightness —
 
 DisplayBright sits in your menu bar and gives you a simple slider to control the brightness of external monitors. It works via **DDC/CI** (the same protocol your monitor's physical buttons use) and supports **EDR brightness boost** on HDR-capable displays for up to 150% brightness.
 
+<img width="310" height="192" alt="image" src="https://github.com/user-attachments/assets/e5da99c8-d665-4573-b6e9-57593a499008" />
+
+
 ## Features
 
 - **Menu bar app** — always accessible, never in the way
